@@ -16,6 +16,8 @@ public class DontForgetTheLyrics {
 	 * 3. Drag your file from the Desktop into the "default package" under "src".
 	 */
 	
+	//Can't Play sound <-
+	
 	public static void main(String[] args) {
 		// 4. Make a pop-up to explain the game.
 
